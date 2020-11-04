@@ -1,5 +1,4 @@
 # Heart-Disease
-It is Project on different Classification models in Supervised learning.
 Algorithms And thier Accuracy:-
 i.logistic regression=86.89%;
 ii.KNN=88.52%;
