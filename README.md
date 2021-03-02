@@ -8,7 +8,7 @@ Navies Bayes=86.89% </br>
 Decision tree=78.69% </br>
 Random Forest=88.52% </br>
 ## Conclusion 
-Best of them are KNN and Random Forest with 88.52% of accuracy.
+![Result Srceenshot](https://github.com/PSoni8/Heart-Disease/blob/main/Result%20Screenshot.png)
 ## DATASET
 https://www.kaggle.com/ronitf/heart-disease-uci
 ### Data contains
